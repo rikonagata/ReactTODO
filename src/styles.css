@@ -19,14 +19,6 @@ button:hover {
   background-color: seagreen;
   cursor: pointer;
 }
-.input-area {
-  background-color: wheat;
-  width: 400px;
-  height: 30px;
-  padding: 8px;
-  margin: 8px;
-  border-radius: 8px;
-}
 
 .incomplete-area {
   background-color: darksalmon;
